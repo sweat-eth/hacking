@@ -1,0 +1,36 @@
+await provider.getBalance("0xD5Ff53724C6B8Fe007693dCdf1ea454F155cd476")
+result
+let result = provider.getBalance("0xD5Ff53724C6B8Fe007693dCdf1ea454F155cd476")
+provider
+const provider = new ethers.providers.AlchemyProvider("homestead","6a4IzDvqK6ZWxpfEX57Rhj3w4x9OPwFj")
+provider
+provider.getBalance("0xD5Ff53724C6B8Fe007693dCdf1ea454F155cd476")
+const provider = new ethers.providers.AlchemyProvider("homestead","6a4IzDvqK6ZWxpfEX57Rhj3w4x9OPwFj")
+provider.getBalance("0xD5Ff53724C6B8Fe007693dCdf1ea454F155cd476")
+provider
+provider.getBalance("0xD5Ff53724C6B8Fe007693dCdf1ea454F155cd476")
+const provider = new ethers.providers.AlchemyProvider("homestead","https://eth-mainnet.alchemyapi.io/v2/6a4IzDvqK6ZWxpfEX57Rhj3w4x9OPwFj")
+provider
+let gasPrice = await provider.getGasPrice()
+gasPrice = await provider.getGasPrice()
+gas price = await provider.getGasPrice()
+await provider.getGasPrice()
+provider.getGasPrice
+const resolver = provider.getResolver("sweat.eth")
+resolver
+await provider.getResolver("sweat.eth")
+provider
+await provider.resolveName("sweat.eth")
+resolver
+resovler
+resolver.address
+console.log(resolver.name)
+const resolver = await provider.getResolver("sweat.eth")
+provider.getBalance('sweat.eth')
+const provider = new ethers.providers.AlchemyProvider("homestead","https://eth-mainnet.alchemyapi.io/v2/6a4IzDvqK6ZWxpfEX57Rhj3w4x9OPwFj")
+const provider = new AlchemyProvider("homestead","https://eth-mainnet.alchemyapi.io/v2/6a4IzDvqK6ZWxpfEX57Rhj3w4x9OPwFj")
+const provider = new AlchemyProvider("homestead", https://eth-mainnet.alchemyapi.io/v2/6a4IzDvqK6ZWxpfEX57Rhj3w4x9OPwFj)
+provider.getBalance(sweat.eth)
+const provider = new ethers.getDefaultProvider()
+await provided.getBalance(sweat.eth)
+const provider = new ethers.providers.JsonRpcProvider(https://eth-mainnet.alchemyapi.io/v2/6a4IzDvqK6ZWxpfEX57Rhj3w4x9OPwFj)
